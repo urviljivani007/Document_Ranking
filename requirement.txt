@@ -1,0 +1,12 @@
+numpy
+pandas
+nltk
+spacy
+matplotlib
+tqdm
+scipy
+sklearn
+scikit-learn
+parsel
+beautifulsoup4
+ipykernel
