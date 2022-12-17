@@ -12,7 +12,6 @@ pip install -r requirements.txt
 
 A brief explanation of all files in this directory.
 
-    - Approach 1: Basic boolean retrieval model and Text Processing using stemming and lemmatization.
-    - Approach 2: Raw term frequency model and TF-IDF model was implemented and compared.
-    - Approach 2: Clustering on the basis of TF-IDF scores.
-    - Approach 3: Implemented a web crawler and implemented page rank algorithm to calculate page rank.
+- Approach 1: Basic boolean retrieval model and Text Processing using stemming and lemmatization.
+- Approach 2: Raw term frequency model and TF-IDF model was implemented and compared. And Clustering on the basis of TF-IDF scores was impemented.
+- Approach 3: Implemented a web crawler and implemented page rank algorithm to calculate page rank.
